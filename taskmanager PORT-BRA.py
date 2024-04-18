@@ -102,7 +102,7 @@ def main():
             print("Tchau... Até a próxima :)")
             break
         else:
-            print(Fore.RED + "Escolha inválica. Por favor, tente novamente." + Style.RESET_ALL)
+            print(Fore.RED + "Escolha inválida. Por favor, tente novamente." + Style.RESET_ALL)
 
 if __name__ == "__main__":
     main()
